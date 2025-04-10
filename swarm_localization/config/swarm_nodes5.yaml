@@ -1,0 +1,78 @@
+%YAML:1.0
+---
+
+nodes:
+
+  1:
+    has_uwb: true
+    has_armarkers: true
+    has_camera: true
+    has_vo: true
+    is_static: false
+    has_global_pose: false
+    anntena_pos: [-0.083, 0, 0.078]
+    bias:
+      1: [0.0, 1.0]
+      2: [0.0, 1.0]
+      3: [0.0, 1.0]
+      4: [0.002876024957717875, 0.9499422747931782]
+      5: [0.0, 1.0]
+
+  2:
+    has_uwb: true
+    has_armarkers: true
+    has_camera: true
+    has_vo: true
+    is_static: false
+    has_global_pose: false
+    anntena_pos: [-0.083, 0, 0.078]
+    bias:
+      1: [-0, 1.0]
+      2: [-0, 1.0]
+      3: [-0, 1.0]
+      4: [-0, 1.0]
+      5: [-0, 1.0]
+
+  3:
+    has_uwb: true
+    has_armarkers: true
+    has_camera: true
+    has_vo: true
+    is_static: false
+    has_global_pose: false
+    anntena_pos: [-0.083, 0, 0.078]
+    bias:
+      1: [-0, 1.0]
+      2: [-0, 1.0]
+      3: [-0, 1.0]
+      4: [-0, 1.0]
+      5: [-0, 1.0]
+
+  4:
+    has_uwb: true
+    has_armarkers: true
+    has_camera: true
+    has_vo: true
+    is_static: false
+    has_global_pose: false
+    anntena_pos: [-0.083, 0, 0.078]
+    bias:
+      1: [0.002876024957717875, 0.9499422747931782]
+      2: [-0, 1.0]
+      3: [-0, 1.0]
+      4: [-0, 1.0]
+      5: [-0, 1.0]
+  5:
+    has_uwb: true
+    has_armarkers: true
+    has_camera: true
+    has_vo: true
+    is_static: false
+    has_global_pose: false
+    anntena_pos: [-0.083, 0, 0.078]
+    bias:
+      1: [-0, 1.0]
+      2: [-0, 1.0]
+      3: [-0, 1.0]
+      4: [-0, 1.0]
+      5: [-0, 1.0]
